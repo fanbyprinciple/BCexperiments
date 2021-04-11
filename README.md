@@ -1,3 +1,3 @@
 # BCexperiments
 
-Google colabs dump.
+Google colabs notebook dump.
